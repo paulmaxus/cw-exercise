@@ -1,0 +1,12 @@
+* you are in building HG De Boelelaan 1111
+* room E0-05
+* exit room
+* turn right, exit building
+* turn left, go to main entrance
+* enter
+* down the stairs
+* you are at K0
+* basement 
+* no light, no fresh air
+* despair
+
